@@ -13,6 +13,7 @@ if (groupIsOnlyStudents) {
   console.log("The group does not contain only students");
 }
 
+
 /* EXPECTED RESULT */
 
 // The group does not contain only students
